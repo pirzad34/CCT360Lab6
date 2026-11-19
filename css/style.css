@@ -1,0 +1,8 @@
+.navbar {
+    background-color: darkblue;
+}
+
+.btn-solid.theme-primary {
+    background-color: lightcyan;
+    color: black
+}
